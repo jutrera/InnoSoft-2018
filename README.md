@@ -4,7 +4,7 @@ Aquí encontrarás todo lo necesario para realizar los ejercicios del taller de 
 En primer lugar, deberás tener una cuenta gmail, ya que vamos a hacer los ejercicios a través de Google Colaboratory y disponiendo de un espacio de alojamiento como Drive. Si no pudieras tenerlo, te aconsejo tener instalado Anaconda y los Jupyter Notebooks en tu ordenador, pero no podrás beneficiarte de la GPU que te proporciona Google.
 
 ## Primer ejercicio. Una red neuronal tradicional
-Aquí dejo el enlace al cuaderno de Colab: https://colab.research.google.com/drive/1yQs_TJwr4YWSC9PpyUEOpsakLttRpkMV
+Aquí dejo el enlace al cuaderno de Colab: https://colab.research.google.com/drive/1yQs_TJwr4YWSC9PpyUEOpsakLttRpkMV o podéis descargaros el cuaderno Jupyter 
 
 Este cuaderno es una introducción a Keras. En ella veremos como conectamos nuestro directorio de Drive con el cuaderno de Colab. Esto nos permitirá salvar archivos, abrirlos, etc. Además, nos descargaremos un dataset predefinido en Keras como es CIFAR.
 
