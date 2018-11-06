@@ -19,7 +19,7 @@ En este cuaderno haremos un ejercicio definiendo una red convolucional y la entr
 
 ## Tercer ejercicio. Deep learning
 Aquí dejo el enlace al cuaderno de Colab: https://colab.research.google.com/drive/15vcTHJ5dgnmxiQVLiAYMSrnTSLtlnYV4.
-O podéis descargaros el cuaderno Jupyter --Pendiente--.
+O podéis descargaros el cuaderno Jupyter https://github.com/jutrera/InnoSoft-2018/blob/master/InnoSoft_2018_Deep.ipynb.
 
 Aquí vamos a implementar la red profunda DenseNet. Veremos que Keras incorpora varias de las redes profundas más conocidas, tales como VGG, ResNet, DenseNet, etc. Esto nos facilita mucho el trabajo de implementar dichos modelos.
 
