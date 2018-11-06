@@ -3,6 +3,8 @@ Taller InnoSoft 2018 Deep Learning
 Aquí encontrarás todo lo necesario para realizar los ejercicios del taller de Deep Learning que daremos en InnoSoft 2018, en la ETSII de Sevilla los próximos días 12, 13 y 16 de Noviembre.
 En primer lugar, deberás tener una cuenta gmail, ya que vamos a hacer los ejercicios a través de Google Colaboratory y disponiendo de un espacio de alojamiento como Drive. Si no pudieras tenerlo, te aconsejo tener instalado Anaconda y los Jupyter Notebooks en tu ordenador, pero no podrás beneficiarte de la GPU que te proporciona Google.
 
+URL de Colab: https://drive.google.com/drive/folders/10JxLaTgIm3MNyAAjrzCyaifrs1cah72J?usp=sharing
+
 ## Primer ejercicio. Una red neuronal tradicional
 Aquí dejo el enlace al cuaderno de Colab: https://colab.research.google.com/drive/1yQs_TJwr4YWSC9PpyUEOpsakLttRpkMV.
 
