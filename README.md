@@ -18,7 +18,9 @@ O podéis descargaros el cuaderno Jupyter https://github.com/jutrera/InnoSoft-20
 En este cuaderno haremos un ejercicio definiendo una red convolucional y la entrenaremos. Aplicaremos las mismas técnicas para compilar y evaluar el modelo. Así veremos lo sencillo que es crear un modelo convolucional con Keras.
 
 ## Tercer ejercicio. Deep learning
-Aquí dejo el enlace al cuaderno de Colab: -Pendiente-.
+Aquí dejo el enlace al cuaderno de Colab: https://colab.research.google.com/drive/15vcTHJ5dgnmxiQVLiAYMSrnTSLtlnYV4.
 O podéis descargaros el cuaderno Jupyter --Pendiente--.
 
-Aquí vamos a implementar la red profunda ResNet. Veremos que Keras incorpora varias de las redes profundas más conocidas, tales como VGG, ResNet, DenseNet, etc. Esto nos facilita mucho el trabajo de implementar dichos modelos.
+Aquí vamos a implementar la red profunda DenseNet. Veremos que Keras incorpora varias de las redes profundas más conocidas, tales como VGG, ResNet, DenseNet, etc. Esto nos facilita mucho el trabajo de implementar dichos modelos.
+
+Además, veremos la clase ImageDataGenerator, que nos permite trabajar con imágenes de manera muy práctica.
