@@ -27,3 +27,5 @@ O podéis descargaros el cuaderno Jupyter https://github.com/jutrera/InnoSoft-20
 Aquí vamos a implementar la red profunda DenseNet. Veremos que Keras incorpora varias de las redes profundas más conocidas, tales como VGG, ResNet, DenseNet, etc. Esto nos facilita mucho el trabajo de implementar dichos modelos.
 
 Además, veremos la clase ImageDataGenerator, que nos permite trabajar con imágenes de manera muy práctica.
+
+Para hacer el ejercicio, necesitarás este archivo: https://drive.google.com/file/d/1xC03Sxa3HRqsJgTRRSL6kXUsmIKXKhGy/view?usp=sharing
