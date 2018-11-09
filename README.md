@@ -8,6 +8,8 @@ En primer lugar, deberás tener una cuenta gmail, ya que vamos a hacer los ejerc
 URL de Colab: https://drive.google.com/drive/folders/10JxLaTgIm3MNyAAjrzCyaifrs1cah72J?usp=sharing
 
 ## Primer ejercicio. Una red neuronal tradicional
+![Regular Neural Net](http://jesusutrera.com/articles/img/RedNeuronalArtificial.png)
+
 Aquí dejo el enlace al cuaderno de Colab: https://colab.research.google.com/drive/1yQs_TJwr4YWSC9PpyUEOpsakLttRpkMV.
 
 O podéis descargaros el cuaderno Jupyter https://github.com/jutrera/InnoSoft-2018/blob/master/InnoSoft_2018_basics.ipynb
@@ -17,6 +19,7 @@ Este cuaderno es una introducción a Keras. En ella veremos como conectamos nues
 Además veremos como definir y compilar un modelo de entrenamiento, definiendo parámetros básicos y luego procederemos a entrenarlo con el conjunto de datos y evaluar dicho entrenamiento con unas básicas herramientas.
 
 ## Segundo ejercicio. Redes Convolutivas
+![Convolutional neural net](http://jesusutrera.com/articles/img/mylenet.png)
 Aquí dejo el enlace al cuaderno de Colab: https://colab.research.google.com/drive/1S743SH1h03j2OmzUPr7LygmC9Z08M9Xz.
 
 O podéis descargaros el cuaderno Jupyter https://github.com/jutrera/InnoSoft-2018/blob/master/InnoSoft_2018_convolution.ipynb
@@ -24,6 +27,7 @@ O podéis descargaros el cuaderno Jupyter https://github.com/jutrera/InnoSoft-20
 En este cuaderno haremos un ejercicio definiendo una red convolucional y la entrenaremos. Aplicaremos las mismas técnicas para compilar y evaluar el modelo. Así veremos lo sencillo que es crear un modelo convolucional con Keras.
 
 ## Tercer ejercicio. Deep learning
+![DenseNet](http://jesusutrera.com/articles/img/densenet02.jpeg)
 Aquí dejo el enlace al cuaderno de Colab: https://colab.research.google.com/drive/15vcTHJ5dgnmxiQVLiAYMSrnTSLtlnYV4.
 
 O podéis descargaros el cuaderno Jupyter https://github.com/jutrera/InnoSoft-2018/blob/master/InnoSoft_2018_Deep.ipynb.
@@ -38,6 +42,7 @@ Para hacer el ejercicio, necesitarás este archivo: https://drive.google.com/fil
 
 
 ## Y finalmente... detección de imágenes con YOLO
+![YOLO detection](https://sandipanweb.files.wordpress.com/2018/03/f1.png?w=676)
 En esta última parte veremos en qué consiste el algoritmo YOLO y como mejoró el rendimiento en los modelos de detección. Partiendo de este ejemplo, veremos como podemos usar Kaggle para compartir y reusar los kernels y modelos de todas partes del mundo.
 
 Para ello, os dejo un enlace al ejemplo que vamos a usar. En este ejemplo, el sistema creará círculos de diferentes colores y éstos serán detectados por el modelo. Aquí os dejo el enlace al kernel que usaremos de ejemplo:
