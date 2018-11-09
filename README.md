@@ -1,3 +1,5 @@
+![InnoSoft 2018 con atSistemas](https://github.com/jutrera/InnoSoft-2018/blob/master/deep101.png)
+
 # InnoSoft-2018
 Taller InnoSoft 2018 Deep Learning
 Aquí encontrarás todo lo necesario para realizar los ejercicios del taller de Deep Learning que daremos en InnoSoft 2018, en la ETSII de Sevilla los próximos días 12, 13 y 16 de Noviembre.
