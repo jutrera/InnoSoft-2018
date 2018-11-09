@@ -43,6 +43,7 @@ Para hacer el ejercicio, necesitarás este archivo: https://drive.google.com/fil
 
 ## Y finalmente... detección de imágenes con YOLO
 ![YOLO detection](https://cdn-images-1.medium.com/max/1200/1*WgvzAXLxLQAev2cfOqljQw.png)
+
 En esta última parte veremos en qué consiste el algoritmo YOLO y como mejoró el rendimiento en los modelos de detección. Partiendo de este ejemplo, veremos como podemos usar Kaggle para compartir y reusar los kernels y modelos de todas partes del mundo.
 
 Para ello, os dejo un enlace al ejemplo que vamos a usar. En este ejemplo, el sistema creará círculos de diferentes colores y éstos serán detectados por el modelo. Aquí os dejo el enlace al kernel que usaremos de ejemplo:
