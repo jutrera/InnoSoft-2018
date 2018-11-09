@@ -70,7 +70,6 @@ https://keras.io/
 https://www.tensorflow.org/?hl=es
 https://www.deeplearningbook.org/
 https://torres.ai/artificial-intelligence-content/www-inteligenciaartificial-barcelona/
-Con todo esto, espero que os guste y daros las gracias por vuestro interés de antemano.
 
 ### Librerias y otros recursos
 https://gluon-cv.mxnet.io/build/examples_detection/train_yolo_v3.html
@@ -78,3 +77,6 @@ https://www.kaggle.com/kmader/component-labeling-with-yolo-and-pretraining
 https://www.microsoft.com/en-us/cognitive-toolkit/
 https://azure.microsoft.com/es-es/services/cognitive-services/
 http://www.jesusutrera.com/articles/article04.html
+
+
+Con todo esto, espero que os guste y daros las gracias por vuestro interés de antemano.
