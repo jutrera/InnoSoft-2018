@@ -33,3 +33,15 @@ Aquí vamos a implementar la red profunda DenseNet. Veremos que Keras incorpora 
 Además, veremos la clase ImageDataGenerator, que nos permite trabajar con imágenes de manera muy práctica.
 
 Para hacer el ejercicio, necesitarás este archivo: https://drive.google.com/file/d/1xC03Sxa3HRqsJgTRRSL6kXUsmIKXKhGy/view?usp=sharing
+
+## Cuarto ejercicio. Consumiendo un servicio inteligente
+
+
+## Y finalmente... detección de imágenes con YOLO
+En esta última parte veremos en qué consiste el algoritmo YOLO y como mejoró el rendimiento en los modelos de detección. Partiendo de este ejemplo, veremos como podemos usar Kaggle para compartir y reusar los kernels y modelos de todas partes del mundo.
+
+Para ello, os dejo un enlace al ejemplo que vamos a usar. En este ejemplo, el sistema creará círculos de diferentes colores y éstos serán detectados por el modelo. Aquí os dejo el enlace al kernel que usaremos de ejemplo:
+
+https://www.kaggle.com/kmader/component-labeling-with-yolo-and-pretraining
+
+Con todo esto, espero que os guste y daros las gracias por vuestro interés de antemano.
