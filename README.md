@@ -50,4 +50,31 @@ Para ello, os dejo un enlace al ejemplo que vamos a usar. En este ejemplo, el si
 
 https://www.kaggle.com/kmader/component-labeling-with-yolo-and-pretraining
 
+## Recursos
+A continuación os dejo unos enlaces a recursos interesantes que os harán falta en el camino de machine learning:
+
+### Cursos
+https://www.edx.org/course/introduction-to-python-absolute-beginner-1
+https://www.edx.org/course/introduction-to-python-fundamentals-1
+https://www.edx.org/course?search_query=python
+https://www.coursera.org/courses?query=python
+https://www.codecademy.com/catalog/language/python
+https://www.coursera.org/learn/machine-learning
+https://www.coursera.org/specializations/deep-learning
+https://www.coursera.org/courses?query=machine%20learning&page=1&indices%5btest_suggestions%5d%5bconfigure%5d%5bhitsPerPage%5d=7&indices%5btest_degrees_keyword_only%5d%5bconfigure%5d%5bhitsPerPage%5d=3
+https://www.edx.org/course?search_query=machine+learning
+https://developers.google.com/machine-learning/crash-course/
+
+### Documentación y blogs
+https://keras.io/
+https://www.tensorflow.org/?hl=es
+https://www.deeplearningbook.org/
+https://torres.ai/artificial-intelligence-content/www-inteligenciaartificial-barcelona/
 Con todo esto, espero que os guste y daros las gracias por vuestro interés de antemano.
+
+### Librerias y otros recursos
+https://gluon-cv.mxnet.io/build/examples_detection/train_yolo_v3.html
+https://www.kaggle.com/kmader/component-labeling-with-yolo-and-pretraining
+https://www.microsoft.com/en-us/cognitive-toolkit/
+https://azure.microsoft.com/es-es/services/cognitive-services/
+http://www.jesusutrera.com/articles/article04.html
