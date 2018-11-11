@@ -44,7 +44,7 @@ Instalar Virtual Box : https://www.virtualbox.org/wiki/Downloads
 Usuario d ela VM : ubuntu
 PWD: ubuntu
 
-Llevas preparada la máquina virTual funcionando al evento supondré una gran ahorro de tiempo. Preparate!
+Llevar preparada la máquina virtual funcionando al evento supondrá una gran ahorro de tiempo. Preparate!
 
 
 ## Y finalmente... detección de imágenes con YOLO
