@@ -39,6 +39,12 @@ Además, veremos la clase ImageDataGenerator, que nos permite trabajar con imág
 Para hacer el ejercicio, necesitarás este archivo: https://drive.google.com/file/d/1xC03Sxa3HRqsJgTRRSL6kXUsmIKXKhGy/view?usp=sharing
 
 ## Cuarto ejercicio. Consumiendo un servicio inteligente
+Descargar la máquina virtual en este enlace : https://a80827694sa-my.sharepoint.com/:f:/g/personal/jjsalguero_atsistemas_com/EjXGZiWGGtBHpyYttyR6Z7EBtcbK9kNufW7CMvDDA7NwhQ?e=qb4qo8
+Instalar Virtual Box : https://www.virtualbox.org/wiki/Downloads
+Usuario d ela VM : ubuntu
+PWD: ubuntu
+
+Llevas preparada la máquina virTual funcionando al evento supondré una gran ahorro de tiempo. Preparate!
 
 
 ## Y finalmente... detección de imágenes con YOLO
