@@ -75,6 +75,7 @@ https://developers.google.com/machine-learning/crash-course/
 https://keras.io/
 https://www.tensorflow.org/?hl=es
 https://www.deeplearningbook.org/
+https://towardsdatascience.com/
 https://torres.ai/artificial-intelligence-content/www-inteligenciaartificial-barcelona/
 
 ### Librerias y otros recursos
