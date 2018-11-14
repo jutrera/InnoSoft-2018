@@ -52,7 +52,12 @@ Llevar preparada la máquina virtual funcionando al evento supondrá una gran ah
 
 En esta última parte veremos en qué consiste el algoritmo YOLO y como mejoró el rendimiento en los modelos de detección. Partiendo de este ejemplo, veremos como podemos usar Kaggle para compartir y reusar los kernels y modelos de todas partes del mundo.
 
-Para ello, os dejo un enlace al ejemplo que vamos a usar. En este ejemplo, el sistema creará círculos de diferentes colores y éstos serán detectados por el modelo. Aquí os dejo el enlace al kernel que usaremos de ejemplo:
+Para entender YOLO, lcreo que yo no lo puedo explicar mejor que a través de estos dos enlaces:
+
+*   https://towardsdatascience.com/training-object-detection-yolov2-from-scratch-using-cyclic-learning-rates-b3364f7e4755
+*   https://hackernoon.com/understanding-yolo-f5a74bbc7967
+
+Os dejo también un enlace al ejemplo que vamos a usar usando la web Kaggle. En este ejemplo, el sistema creará círculos de diferentes colores y éstos serán detectados por el modelo:
 
 https://www.kaggle.com/kmader/component-labeling-with-yolo-and-pretraining
 
